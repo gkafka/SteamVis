@@ -1,0 +1,8 @@
+# Ipython
+.ipynb_checkpoints/
+
+# Mac OS
+.DS_Store
+
+# Thumbnails
+._*
