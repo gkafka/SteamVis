@@ -2195,53 +2195,11 @@
 111400: No Metascore?
 111600: No Metascore?
 111610: No Metascore?
-112620: Couldn't get html?
-112630: Couldn't get html?
-112640: Couldn't get html?
-112650: Couldn't get html?
-112660: Couldn't get html?
-112670: Couldn't get html?
-112680: Couldn't get html?
-112690: Couldn't get html?
-112700: Couldn't get html?
-112710: Couldn't get html?
-112720: Couldn't get html?
-112730: Couldn't get html?
-112740: Couldn't get html?
-112750: Couldn't get html?
-112760: Couldn't get html?
-112770: Couldn't get html?
-112780: Couldn't get html?
-112790: Couldn't get html?
-112800: Couldn't get html?
-112810: Couldn't get html?
-112820: Couldn't get html?
-112830: Couldn't get html?
-112840: Couldn't get html?
-112850: Couldn't get html?
-112860: Couldn't get html?
-112870: Couldn't get html?
-112880: Couldn't get html?
-112890: Couldn't get html?
-112900: Couldn't get html?
-112910: Couldn't get html?
-112920: Couldn't get html?
-112930: Couldn't get html?
-112940: Couldn't get html?
-112950: Couldn't get html?
-112960: Couldn't get html?
-112970: Couldn't get html?
-112980: Couldn't get html?
-112990: Couldn't get html?
-113000: Couldn't get html?
-113010: Couldn't get html?
 113400: No Metascore?
 115100: No Metascore?
 115300: No Metascore?
 116100: No Metascore?
 116120: No Metascore?
-117510: Couldn't get html?
-118590: Couldn't get html?
 200080: No Metascore?
 200130: No Metascore?
 200150: No Metascore?
@@ -4088,11 +4046,9 @@
 292990: Invalid release date?
 292990: No Metascore?
 293160: No Metascore?
-293180: Couldn't get html?
-293190: Couldn't get html?
-293200: Couldn't get html?
-293210: Couldn't get html?
-293220: Couldn't get html?
+293180: No Metascore?
+293200: No Metascore?
+293220: No Metascore?
 293240: No Metascore?
 293280: No Metascore?
 293320: No Metascore?
@@ -6707,7 +6663,6 @@
 350720: No Metascore?
 350770: No Metascore?
 350780: No Metascore?
-350790: Couldn't get html?
 350800: No Metascore?
 350810: No Metascore?
 350840: No Metascore?
@@ -11913,7 +11868,6 @@
 432200: No price block?
 432200: No Metascore?
 432200: Too short review string?
-432210: Couldn't get html?
 432220: No price?
 432220: No Metascore?
 432230: No Metascore?
@@ -13808,7 +13762,6 @@
 459560: No Metascore?
 459580: No Metascore?
 459630: No Metascore?
-459640: Couldn't get html?
 459680: No Metascore?
 459690: No Metascore?
 459790: No game name?
@@ -22205,7 +22158,6 @@
 555010: No price block?
 555010: No Metascore?
 555010: Too short review string?
-555020: Couldn't get html?
 555040: No Metascore?
 555040: Too short review string?
 555060: No Metascore?
@@ -22233,7 +22185,6 @@
 555220: No Metascore?
 555220: No user review information?
 555230: No Metascore?
-555270: Couldn't get html?
 555290: No Metascore?
 555380: No game name?
 555380: No release date?
